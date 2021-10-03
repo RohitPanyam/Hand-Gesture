@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7fcccff-906f-4ab3-b5ff-340eecf89109" name="Changes" comment="Basic Code">
-      <change afterPath="$PROJECT_DIR$/Hand_tracking_mod.py" afterDir="false" />
+    <list default="true" id="d7fcccff-906f-4ab3-b5ff-340eecf89109" name="Changes" comment="Basic Hand Tracking Code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hand_tracking.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hand_tracking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hand_tracking_mod.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hand_tracking_mod.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,14 +39,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="settings.editor.selected.configurable" value="diff.external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Hand_tracking_mod">
     <configuration name="Hand_tracking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Git" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,8 +68,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Hand_tracking_mod" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Git" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hand_tracking_mod.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Hand_tracking_mod" />
         <item itemvalue="Python.Hand_tracking" />
       </list>
     </recent_temporary>
@@ -91,7 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1633236718123</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Basic Code">
+      <created>1633247819514</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633247819514</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Basic Hand Tracking Code">
+      <created>1633247869731</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1633247869731</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,7 +142,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Basic Hand Tracking code has been added." />
     <MESSAGE value="Basic Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic Code" />
+    <MESSAGE value="Basic Hand Tracking Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic Hand Tracking Code" />
   </component>
 </project>
