@@ -25,11 +25,11 @@ class HandTracker:
 
     def find_hands(self, img, draw=True):
         imgRGB = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
-        result = self.hands.process(imgRGB)
+        self.result = self.hands.process(imgRGB)
         # print(result)
         # print(result.multi_hand_landmarks)
-        if result.multi_hand_landmarks:
-            for handLms in result.multi_hand_landmarks:
+        if self.result.multi_hand_landmarks:
+            for handLms in self.result.multi_hand_landmarks:
                 if draw:
                     self.mpDraw.draw_landmarks(img, handLms, self.mpHands.HAND_CONNECTIONS)
         return img
@@ -50,7 +50,10 @@ class HandTracker:
 
 
 def main():
+    wCam, hCam = 640, 480
     cap = cv2.VideoCapture(0)
+    cap.set(3, wCam)  # width of the frame is set
+    cap.set(4, hCam)  # height of the frame is set
     tracker = HandTracker()
     while True:
         success, img = cap.read()
