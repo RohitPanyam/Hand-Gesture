@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="d7fcccff-906f-4ab3-b5ff-340eecf89109" name="Changes" comment="Hand Tracking Module">
       <change afterPath="$PROJECT_DIR$/Gesture_Recognizer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Git.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hand_tracking.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +40,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -165,6 +172,7 @@
       <updated>1633349727370</updated>
     </task>
     <option name="localTasksCounter" value="6" />
+
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,4 +194,5 @@
     <MESSAGE value="Hand Tracking Module" />
     <option name="LAST_COMMIT_MESSAGE" value="Hand Tracking Module" />
   </component>
+
 </project>
