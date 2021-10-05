@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7fcccff-906f-4ab3-b5ff-340eecf89109" name="Changes" comment="Hand Tracking Module">
-      <change afterPath="$PROJECT_DIR$/Gesture_Recognizer.py" afterDir="false" />
+    <list default="true" id="d7fcccff-906f-4ab3-b5ff-340eecf89109" name="Changes" comment="Hand Gesture Recognizer">
       <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/Git.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
@@ -40,7 +39,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -171,8 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633349727370</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
-
+    <task id="LOCAL-00006" summary="Hand Gesture Recognizer">
+      <created>1633426515669</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1633426515670</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,7 +196,7 @@
     <MESSAGE value="Basic Code" />
     <MESSAGE value="Basic Hand Tracking Code" />
     <MESSAGE value="Hand Tracking Module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hand Tracking Module" />
+    <MESSAGE value="Hand Gesture Recognizer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hand Gesture Recognizer" />
   </component>
-
 </project>
